@@ -8,7 +8,7 @@
   background-color: rgba(29, 29, 244, 0.982);
   color: white;
   font-style: italic;
-  font-family: Times New Roman;
+  font-family: "Times New Roman", Times, serif;
 }
 .navbar .cart {
   position: relative;
@@ -61,7 +61,7 @@
   height: 96vh;
   background-color: white;
   color: black;
-  font-family: Times New Roman;
+  font-family: "Times New Roman", Times, serif;
 }
 .Filters h2 {
   font-size: 20px;
